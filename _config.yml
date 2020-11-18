@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+title: about:blank
+description: @zenkarsha
+navigation:
+  - title: biography
+    url: https://zenkarsha.github.io/biography/
+  - title: poetry
+    url: https://zenkarsha.github.io/poetry/
+  - title: muse
+    url: https://zenkarsha.github.io/muse/
+  - title: whisper
+    url: https://zenkarsha.github.io/whisper/
